@@ -25,7 +25,7 @@ WIN10
 "webpack-dev-server": "2.5.1"
     
 Usage:
-In CMD, 
+In CMD, change directory to folder path, 
 enter "yarn install"
 enter "yarn run dev-server"
 
