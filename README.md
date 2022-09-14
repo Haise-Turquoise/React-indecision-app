@@ -4,6 +4,7 @@ React practice
 Environment:
 
 WIN10
+"node.js",  "12.13.0",<br />
 "Python",   "3.10.7",
 "babel-cli": "6.24.1",
 "babel-core": "6.25.0",
